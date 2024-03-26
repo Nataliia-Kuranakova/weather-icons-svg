@@ -2,11 +2,13 @@
 
 ## Introduction
 
-Faced with a lack of suitable weather icons for the 'Journey Cast' project, I decided to create my own set and uploaded them to this GitHub repository for free use. 
 
-You can preview the entire stack of icons in the `icons-set.svg` file before deciding to use them in your projects.
+This set of icons is primarily intended for integration with the [Visual Crossing Weather API](https://www.visualcrossing.com/), with each icon name corresponding directly to the value of the "icon" field used in that API. This systematic naming ensures easy integration into projects that use Visual Crossing weather data. But they can be easily adapted with any other APIs for different purposes.
 
-This set of icons is primarily intended for integration with the [Visual Crossing Weather API](https://www.visualcrossing.com/), with each icon name corresponding directly to the value of the "icon" field used in that API. This systematic naming ensures easy integration into projects that use Visual Crossing weather data. In addition, users can flexibly adapt the icon names for use with any other APIs for different purposes.
+Before deciding to use them in your projects, you can preview the entire stack of icons in the `icons-set.svg` file.
+
+<img width="100%" src="https://github.com/Nataliia-Kuranakova/weather-icons-svg/assets/100141113/0bd54ac7-8795-4a3a-873d-44d58f0dea69" alt="icon set"/>
+
 ## Author
 
 - **Nataliia Kuranakova**
